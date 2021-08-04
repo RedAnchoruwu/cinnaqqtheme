@@ -1556,6 +1556,14 @@
   height: 40px;
   background: url("https://www.vo.eu/wp-content/uploads/2020/01/Hello-Kitty-banner.jpg") no-repeat;
   background-size: 100%;
+  }
+:root .app-2rEoOp::before {
+  top: 150px;
+  right: 116px;
+  width: 200px;
+  height: 120px;
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33317768-c51f-4faf-9465-413805cf1a46/d4x2xn5-382daeeb-50d5-4956-8179-537abdfad2d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzMzE3NzY4LWM1MWYtNGZhZi05NDY1LTQxMzgwNWNmMWE0NlwvZDR4MnhuNS0zODJkYWVlYi01MGQ1LTQ5NTYtODE3OS01MzdhYmRmYWQyZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-XEmJA6mnLcWxT9qeGu9tHPij-JaCMt07IIb479FIJU") no-repeat;
+  background-size: 100%;
 }
 :root .app-2rEoOp::after {
   bottom: 20px;
